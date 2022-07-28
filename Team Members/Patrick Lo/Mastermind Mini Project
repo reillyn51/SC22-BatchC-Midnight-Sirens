@@ -1,0 +1,7 @@
+def randomGenerator:
+    i=0
+    fourDigit=[]
+    while i<4:
+        fourDigit[i]=random(0,9)
+        i+=1
+    print fourDigit

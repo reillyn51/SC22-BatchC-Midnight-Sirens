@@ -1,0 +1,18 @@
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> run
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'run' is not defined
+>>> import random
+>>> 
+>>> def guess_NUMBER():
+...     ran = random.randint(1000, 9999)
+...     return ran
+... print(guess_NUMBER())
+  File "<stdin>", line 4
+    print(guess_NUMBER())
+    ^
+SyntaxError: invalid syntax
+>>> [K>>> 

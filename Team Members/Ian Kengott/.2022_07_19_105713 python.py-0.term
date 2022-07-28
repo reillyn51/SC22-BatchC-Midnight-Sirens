@@ -1,0 +1,17 @@
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ # objectives
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ #1. make number
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ #2. reply to users guess
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ import random
+import-im6.q16: unable to open X server `' @ error/import.c/ImportImageCommand/359.
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ 
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ def guess_NUMBER():
+bash: syntax error near unexpected token `('
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$     ran = random.randint(1000, 9999)
+bash: syntax error near unexpected token `('
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$     return ran
+bash: return: ran: numeric argument required
+bash: return: can only `return' from a function or sourced script
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ print(guess_NUMBER())
+bash: syntax error near unexpected token `guess_NUMBER'
+(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ (base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ reset
+c[?1000l[?25h(base) ]0;~/Team Members/Ian Kengott[01;34m~/Team Members/Ian Kengott[00m$ 
